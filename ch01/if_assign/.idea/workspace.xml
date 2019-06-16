@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea133b5c-3996-4863-b8c3-b5a01bec7648" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../closures/src/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/src/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/src/main.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/src/main.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-05237b3835e9010a/test-bin-closures-05237b3835e9010a" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-05237b3835e9010a/test-bin-closures-05237b3835e9010a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-05237b3835e9010a/test-bin-closures-05237b3835e9010a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-05237b3835e9010a/test-bin-closures-05237b3835e9010a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-d0d00d8735ebf0fa/bin-closures-d0d00d8735ebf0fa" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-d0d00d8735ebf0fa/bin-closures-d0d00d8735ebf0fa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-d0d00d8735ebf0fa/bin-closures-d0d00d8735ebf0fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/../closures/target/rls/debug/.fingerprint/closures-d0d00d8735ebf0fa/bin-closures-d0d00d8735ebf0fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlvbde6-14tjmdz-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlvbde6-14tjmdz-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlvbde6-14tjmdz-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlvbde6-14tjmdz.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlwgxcm-brmhlr-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlwgxcm-brmhlr-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlwgxcm-brmhlr-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlwgxcm-brmhlr.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlz81q1-1ngo35h-2qvej2exqzqo5/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlz81q1-1ngo35h-2qvej2exqzqo5/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlz81q1-1ngo35h-2qvej2exqzqo5/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-38fl76jvc4qd4/s-fd1zlz81q1-1ngo35h.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlwrdbw-s3gz7n-working/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlwrdbw-s3gz7n-working/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlwrdbw-s3gz7n-working/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlwrdbw-s3gz7n.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlzim28-q5cpie-14zswkerh92oz/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlzim28-q5cpie-14zswkerh92oz/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlzim28-q5cpie-14zswkerh92oz/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../closures/target/rls/debug/incremental/closures-t4bq7xmp8500/s-fd1zlzim28-q5cpie.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-1ed40b85d4e8dd26/bin-function_mut-1ed40b85d4e8dd26" beforeDir="false" afterPath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-1ed40b85d4e8dd26/bin-function_mut-1ed40b85d4e8dd26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-1ed40b85d4e8dd26/bin-function_mut-1ed40b85d4e8dd26.json" beforeDir="false" afterPath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-1ed40b85d4e8dd26/bin-function_mut-1ed40b85d4e8dd26.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-f48f4b3fd01c21c7/test-bin-function_mut-f48f4b3fd01c21c7" beforeDir="false" afterPath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-f48f4b3fd01c21c7/test-bin-function_mut-f48f4b3fd01c21c7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-f48f4b3fd01c21c7/test-bin-function_mut-f48f4b3fd01c21c7.json" beforeDir="false" afterPath="$PROJECT_DIR$/../function_mut/target/rls/debug/.fingerprint/function_mut-f48f4b3fd01c21c7/test-bin-function_mut-f48f4b3fd01c21c7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-1gyu8takbonua/s-fd1zbmkq15-18eqv2y-2kl0w9erq5l4b/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-1gyu8takbonua/s-fd1zbmkq15-18eqv2y-2kl0w9erq5l4b/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-1gyu8takbonua/s-fd1zbmkq15-18eqv2y-2kl0w9erq5l4b/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-1gyu8takbonua/s-fd1zbmkq15-18eqv2y.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-2zgecwvwx1i0y/s-fd1zbmanc3-1un5fs4-250k84uecyjti/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-2zgecwvwx1i0y/s-fd1zbmanc3-1un5fs4-250k84uecyjti/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-2zgecwvwx1i0y/s-fd1zbmanc3-1un5fs4-250k84uecyjti/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function_mut/target/rls/debug/incremental/function_mut-2zgecwvwx1i0y/s-fd1zbmanc3-1un5fs4.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/src/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/src/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/src/main.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/src/main.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-1718ad9efa9b228b/test-bin-functions-1718ad9efa9b228b" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-1718ad9efa9b228b/test-bin-functions-1718ad9efa9b228b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-1718ad9efa9b228b/test-bin-functions-1718ad9efa9b228b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-1718ad9efa9b228b/test-bin-functions-1718ad9efa9b228b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-955ef16c3fcabe74/bin-functions-955ef16c3fcabe74" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-955ef16c3fcabe74/bin-functions-955ef16c3fcabe74" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-955ef16c3fcabe74/bin-functions-955ef16c3fcabe74.json" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/.fingerprint/functions-955ef16c3fcabe74/bin-functions-955ef16c3fcabe74.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/deps/functions-1718ad9efa9b228b.d" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/deps/functions-1718ad9efa9b228b.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/deps/functions-955ef16c3fcabe74.d" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/deps/functions-955ef16c3fcabe74.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/deps/save-analysis/functions-1718ad9efa9b228b.json" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/deps/save-analysis/functions-1718ad9efa9b228b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/deps/save-analysis/functions-955ef16c3fcabe74.json" beforeDir="false" afterPath="$PROJECT_DIR$/../functions/target/rls/debug/deps/save-analysis/functions-955ef16c3fcabe74.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-240lcwbecf6c5/s-fd1yvu3w8e-oqdq9c-pitjwqmm3hoq/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-240lcwbecf6c5/s-fd1yvu3w8e-oqdq9c-pitjwqmm3hoq/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-240lcwbecf6c5/s-fd1yvu3w8e-oqdq9c-pitjwqmm3hoq/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-240lcwbecf6c5/s-fd1yvu3w8e-oqdq9c.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-3izui7b5e39lo/s-fd1yvuay4b-of1h24-v9ojnove0hzn/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-3izui7b5e39lo/s-fd1yvuay4b-of1h24-v9ojnove0hzn/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-3izui7b5e39lo/s-fd1yvuay4b-of1h24-v9ojnove0hzn/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../functions/target/rls/debug/incremental/functions-3izui7b5e39lo/s-fd1yvuay4b-of1h24.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.rs" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="CGfNPosy" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/if_assign.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="if_assign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="if_assign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="if_assign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="if_assign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run if_assign" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package if_assign --bin if_assign" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run if_assign" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea133b5c-3996-4863-b8c3-b5a01bec7648" name="Default Changelist" comment="" />
+      <created>1560691401018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560691401018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Cargo" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
