@@ -1,11 +1,25 @@
-fn main() {
-    struct Audio(String);
-    struct Video(String);
+mod media;
+use media::Playable;
 
-    impl Playable for Audio {
-        fn play(&self) {
-            println!("Now Playing: {}", self.0);
-        }
+struct Audio(String, String);
+struct Video(String, String);
+
+impl Playable for Audio {
+    fn play(&self) {
+        println!("Now Playing: {} by {}", self.0, self.1);
     }
-    fn main() {}
+}
+
+impl Playable for Video {
+    fn play(&self) {
+        println!("Now Playing: {} by {}", self.0, self.1);
+    }
+}
+
+fn main() {
+    println!("Super Player!");
+    let audio = Audio("ambient_music.mp3".to_string(), "falala guy".to_string());
+    let video = Video("ufo_documentary.mkv".to_string(), "aliens_guy".to_string());
+    audio.play();
+    video.play();
 }

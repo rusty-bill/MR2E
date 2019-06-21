@@ -1,6 +1,6 @@
-trait Playable {
+pub trait Playable {
     fn play(&self);
     fn pause(){
-        println!("paused");
+        println!("Paused");
     }
 }

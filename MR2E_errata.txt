@@ -1,0 +1,10 @@
+chapter 2 errata
+----------------
+page 64: need a dash in function return type
+         fn pow(base: i64, exponent: usize) > i64 {
+		 s/b fn pow(base: i64, exponent: usize) -> i64 {
+
+chapter 4 errata
+----------------
+page 127: text mentions using the "use" statement, but doesn't include it in the code follwing it.
+          code should include: use media::Playable;
