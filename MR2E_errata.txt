@@ -1,10 +1,28 @@
-chapter 2 errata
-----------------
-page 64: need a dash in function return type
-         fn pow(base: i64, exponent: usize) > i64 {
-		 s/b fn pow(base: i64, exponent: usize) -> i64 {
+Mastering Rust II errata
 
-chapter 4 errata
-----------------
-page 127: text mentions using the "use" statement, but doesn't include it in the code follwing it.
-          code should include: use media::Playable;
+chapter 1:
+	page 30:	"Another nice feature or you can call guarantee of match expressions is that we have to
+				match exhaustively against all possible cases of the value we are matching against."
+				s/b "Another nice feature, or you can call guarantee, of match expressions is that we have to
+                match exhaustively against all possible cases of the value we are matching against."
+				   
+	page 32:	"They allow you to easily express you data." 
+				s/b "They easily allow you to express your data."
+			 
+	page 37:	Mention of #[derive(Debug)] attribute in Direction enum example, but was omitted
+	
+	page 45: 	"where in we take a reference to our fruit map..." 
+				s/b "wherein we take a reference to our fruit map..."
+				or simply "where we take a reference to our fruit map..."
+			 
+				"There are also seperate methods keys() and values()"
+				s/b "There are also separate methods keys() and values()"
+
+chapter 2:
+	page 64:	need a dash in function return type
+				fn pow(base: i64, exponent: usize) > i64 {
+				s/b fn pow(base: i64, exponent: usize) -> i64 {
+
+chapter 4:
+	page 127:	text mentions using the "use" statement, but doesn't include it in the code follwing it.
+				code should include: use media::Playable;
