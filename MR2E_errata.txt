@@ -34,4 +34,3 @@ chapter 4:
                  gain some compile time guarantees."
 				 
 	page 131:	The phrase: "Two such examples are is the From<T> and Into<T> traits" should be: "Two such examples are the From<T> and Into<T> traits"
-
